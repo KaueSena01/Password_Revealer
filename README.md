@@ -1,19 +1,7 @@
-# password
+<div align="center">
+<img src="https://raw.githubusercontent.com/KaueSena01/Revelador_de_senha/master/assets/logo.png"/>
+<h1>Password revealer 🔑</h1>
+</div>
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<p>📷 Demo video</p>
